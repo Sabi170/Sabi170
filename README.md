@@ -5,8 +5,8 @@
 
 - <b>ALX Professional Foundation Project</b>
   - [EcoWarriors](https://github.com/Sabi170/EcoWarriors/blob/main/README.md)
-- <bSlides)</b>
-  - [Canva Slides](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b> Project Slides)</b>
+  - [Canva Slides](https://www.canva.com/design/DAGlyMiLeMk/qCvVu0jgtHnrQylLO61gEg/edit?utm_content=DAGlyMiLeMk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</b></i>
 
 <h2>📺 Certifications</h2>
 
